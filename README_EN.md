@@ -20,16 +20,6 @@ Minimalist Sudoku seamlessly integrates into the IntelliJ IDEA interface, provid
 - **Multi-language Support**: Native support for Chinese, English, Japanese, and Korean.
 
 ---
-
-## 📷 Screenshots
-
-<p align="center">
-  <img src="screenshot/04556364b999b2cb319bb2571b4d1c9c.png" width="30%">
-  <img src="screenshot/97ad8d238ae8e949eea0fe391ee828fa.png" width="30%">
-  <img src="screenshot/dfeb7d30755628a82dbe217fd741d77d.png" width="30%">
-</p>
-
----
 ## ✨ Features
 
 - **Timer**: Real-time recording of game duration to challenge your limits.
